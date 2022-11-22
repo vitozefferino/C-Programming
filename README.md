@@ -1,2 +1,2 @@
-# ProgrammingLab
-Repo for the Programming Lab course
+# C Programming
+Repo for C Programming
